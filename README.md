@@ -6,9 +6,9 @@ This repository contains a machine learning model developed to detect credit car
 
 - **Data Cleaning:** Handling missing values, outliers, and ensuring data consistency.
 - **Feature Engineering:** Creating new features, selecting relevant features, and transforming variables.
-- **Model Implementation:** Utilizing various classification algorithms such as Logistic Regression, Decision Trees, Random Forests, and Gradient Boosting.
+- **Model Implementation:** Utilizing classification algorithm such as Logistic Regression.
 - **Model Optimization:** Hyperparameter tuning to improve model performance.
-- **Evaluation:** Assessing model accuracy using metrics like Accuracy, Precision, Recall, F1 Score, and ROC-AUC.
+- **Evaluation:** Assessing model accuracy using metrics like Accuracy, Precision, Recall.
 
 ## Tools and Libraries
 
